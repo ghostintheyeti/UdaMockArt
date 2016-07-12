@@ -1,0 +1,23 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  
+* What new skills have you learned?
+
+1. How to learn a new language and have immersed myself in html. 
+2. Trust what I've learned without the need to check if it's correct beforehand. If thecode doens't work, that been the time to research the solution.
+3. That not all IDE are the same. For me, brackets feels the most native and with a couple of extensions, it's starting to feel like home
+4. Basic html andhow to construct a basic web page, pull images, add links, basic formatting techniques, colouring text as well as a few other tags.
+5. That www.wc3schools.com suits my learning style more than Mozilla Dev.
+6. To slow down and take micro breaks during my learning
+7. Finally,that a backlit keyboard and double monitor would be pretty handy, although not essential.
+  
+* What has been easy?
+
+The course layout and structure. 
+
+  
+* What has been difficult?
+  
+The correct style of laying out the html. This is in regards to siblings,children. parents etc. I'm sure that my code looks messy, even though it get's the job done? 
+
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
